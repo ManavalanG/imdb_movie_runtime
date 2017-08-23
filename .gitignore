@@ -1,0 +1,6 @@
+.idea
+src/imdb2json_manaEdited.py
+*.list.gz
+*.json.gz
+*.tsv.gz
+*.list
