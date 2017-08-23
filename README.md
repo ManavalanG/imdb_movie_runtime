@@ -9,5 +9,11 @@ to convert IMDB list format to JSON format. Note: Modified imdb2json.py is not m
 4. Combine TSV data obtained from multiple IMDB files using [analyze_imdb_data.ipynb](./analysis/analyze_imdb_data.ipynb) and determine mean movie runtime by country
 5. Plot it on map using [plot_imdb_runtime_on_map.ipynb](./analysis/plot_imdb_runtime_on_map.ipynb)
 
+### Results
+![Average movie runtime by country](./results/plot_imdb_MovieLengthByCountry.png)
+
+Interactive version of this chart is available at [plot.ly](https://plot.ly/~mana_plotly/22/)
+
+
 ### License
 Code in this repository is distributed under MIT license.
