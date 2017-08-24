@@ -3,24 +3,22 @@ Algeria	Arabic	1.681666666666667	40
 Algeria	Berber	1.7166666666666668	2
 Algeria	English	1.6166666666666667	1
 Algeria	French	1.5409090909090908	22
-Algeria	German	1.4166666666666667	1
 Argentina	Aboriginal	1.1666666666666667	1
 Argentina	Arabic	1.25	1
 Argentina	Catalan	1.0666666666666667	1
-Argentina	English	1.5089285714285714	56
+Argentina	English	1.5160493827160495	54
 Argentina	French	1.3166666666666667	3
 Argentina	Galician	1.5333333333333334	1
 Argentina	German	1.511111111111111	6
 Argentina	Guarani	1.3	1
 Argentina	Hindi	1.5	1
 Argentina	Italian	1.3333333333333335	5
-Argentina	Japanese	1.3333333333333333	1
 Argentina	Korean	1.7	1
 Argentina	None	1.2333333333333334	1
 Argentina	Portuguese	1.5583333333333336	6
 Argentina	Quechua	1.4333333333333333	1
 Argentina	Sign Languages	1.3833333333333333	1
-Argentina	Spanish	1.4607082630691417	2372
+Argentina	Spanish	1.459105069385445	2354
 Argentina	Welsh	1.9833333333333334	1
 Armenia	Armenian	1.5499999999999994	77
 Armenia	Czech	1.2	1
@@ -39,12 +37,12 @@ Australia	Central Khmer	1.5	1
 Australia	Chinese	2.5000000000000004	3
 Australia	Croatian	1.3333333333333333	1
 Australia	Dzongkha	1.6416666666666666	2
-Australia	English	1.5246762099522868	1956
+Australia	English	1.5224186455584896	1895
 Australia	French	2.1100000000000003	5
 Australia	German	1.4166666666666665	2
 Australia	Greek	1.3666666666666667	1
 Australia	Hassanya	1.25	1
-Australia	Hindi	1.9351851851851853	9
+Australia	Hindi	1.9895833333333335	8
 Australia	Indonesian	1.5583333333333331	4
 Australia	Italian	2.5416666666666665	2
 Australia	Japanese	1.75	3
@@ -77,10 +75,10 @@ Austria	Czech	1.9249999999999998	2
 Austria	Danish	2.3333333333333335	1
 Austria	Dari	1.5666666666666667	1
 Austria	Dzongkha	1.45	1
-Austria	English	1.5293548387096776	155
+Austria	English	1.5297385620915036	153
 Austria	French	1.5551282051282054	13
 Austria	Georgian	1.4833333333333334	1
-Austria	German	1.5346958637469592	685
+Austria	German	1.5340751730959454	674
 Austria	Hebrew	1.372222222222222	3
 Austria	Hindi	1.5	1
 Austria	Indonesian	1.4666666666666666	1
@@ -102,17 +100,16 @@ Austria	Serbo-Croatian	1.5166666666666666	1
 Austria	Slovak	1.6333333333333333	2
 Austria	Spanish	1.361111111111111	12
 Austria	Swedish	2.3	1
-Austria	Swiss German	1.3333333333333333	1
 Austria	Thai	1.3166666666666667	1
 Austria	Tibetan	1.4333333333333333	1
 Austria	Turkish	1.5999999999999999	6
 Austria	Vietnamese	3.0	1
-Azerbaijan	Azerbaijani	1.5401234567901232	27
+Azerbaijan	Azerbaijani	1.5410256410256409	26
 Azerbaijan	Azeri	1.5046875000000002	32
 Azerbaijan	English	1.8166666666666667	2
 Azerbaijan	Russian	1.3999999999999997	6
 Azerbaijan	Turkish	1.0166666666666666	1
-Bangladesh	Bengali	2.2054398148148153	288
+Bangladesh	Bengali	2.2060659599528862	283
 Bangladesh	English	1.8979166666666667	8
 Bangladesh	Urdu	2.5	1
 Belarus	Belarusian	1.3499999999999999	4
@@ -130,11 +127,11 @@ Belgium	Bulgarian	1.1666666666666667	2
 Belgium	Chinese	1.0833333333333333	1
 Belgium	Creole	1.3583333333333334	2
 Belgium	Dari	1.45	1
-Belgium	Dutch	1.5487179487179492	234
-Belgium	English	1.5480000000000003	125
+Belgium	Dutch	1.5478985507246381	230
+Belgium	English	1.5465846994535517	122
 Belgium	Flemish	1.6878787878787878	33
-Belgium	French	1.4850925925925922	360
-Belgium	German	1.9611111111111112	6
+Belgium	French	1.4851799242424237	352
+Belgium	German	2.026666666666667	5
 Belgium	Greek	2.2	1
 Belgium	Hebrew	1.311111111111111	3
 Belgium	Hungarian	1.6416666666666666	2
@@ -148,7 +145,7 @@ Belgium	Mandarin	1.4333333333333333	1
 Belgium	Mongolian	1.625	2
 Belgium	Persian	1.45	1
 Belgium	Polish	1.4916666666666667	2
-Belgium	Portuguese	1.3055555555555556	3
+Belgium	Portuguese	1.4416666666666667	2
 Belgium	Quechua	1.2666666666666666	1
 Belgium	Romanian	1.2733333333333334	5
 Belgium	Russian	1.45	3
@@ -160,7 +157,7 @@ Belgium	Tamil	1.2666666666666666	1
 Belgium	Vietnamese	1.2	1
 Bolivia	English	1.4875	4
 Bolivia	Quechua	1.7	1
-Bolivia	Spanish	1.5584795321637421	57
+Bolivia	Spanish	1.5639880952380947	56
 Bosnia and Herzegovina	Arabic	2.0	1
 Bosnia and Herzegovina	Armenian	1.05	1
 Bosnia and Herzegovina	Bosnian	1.4470085470085472	39
@@ -177,19 +174,18 @@ Brazil	Armenian	1.05	1
 Brazil	Brazilian Sign Language	1.423809523809524	7
 Brazil	Creole	1.0166666666666666	1
 Brazil	Danish	1.7166666666666666	1
-Brazil	English	1.48587962962963	72
+Brazil	English	1.4856807511737093	71
 Brazil	French	1.1690476190476191	7
-Brazil	German	1.5166666666666666	1
 Brazil	Italian	1.4	2
 Brazil	Japanese	1.5666666666666667	2
 Brazil	Mandarin	1.75	1
 Brazil	None	1.0666666666666667	1
-Brazil	Portuguese	1.5080552244735792	1678
+Brazil	Portuguese	1.5084795321637425	1653
 Brazil	Russian	1.5	1
 Brazil	Spanish	1.4455128205128203	26
 Brazil	Tupi	1.5333333333333334	1
 Brazil	Yoruba	1.6666666666666667	1
-Bulgaria	Bulgarian	1.587890625000001	256
+Bulgaria	Bulgarian	1.5887482419127998	237
 Bulgaria	Burmese	1.2333333333333334	1
 Bulgaria	English	1.5453333333333337	25
 Bulgaria	French	1.8333333333333333	1
@@ -216,10 +212,10 @@ Canada	Czech	1.65	1
 Canada	Danish	1.35	1
 Canada	Dari	1.8333333333333333	1
 Canada	Dutch	1.55	1
-Canada	English	1.5098317221625495	4656
+Canada	English	1.5088004362050171	4586
 Canada	Filipino	1.1	2
 Canada	Finnish	1.1	1
-Canada	French	1.5436370626682037	867
+Canada	French	1.545509803921568	850
 Canada	German	1.4533333333333336	5
 Canada	Greek	2.9916666666666667	2
 Canada	Hebrew	1.3083333333333333	2
@@ -239,7 +235,6 @@ Canada	Norwegian	1.7	1
 Canada	Ojibwa	1.1833333333333333	1
 Canada	Persian	1.3845238095238095	14
 Canada	Punjabi	2.0666666666666664	10
-Canada	Romanian	1.5333333333333334	1
 Canada	Russian	1.325	10
 Canada	Serbo-Croatian	1.1833333333333333	1
 Canada	Spanish	1.4224999999999999	40
@@ -256,18 +251,18 @@ Chile	French	1.6916666666666667	2
 Chile	German	1.5	1
 Chile	Hebrew	1.75	1
 Chile	Polish	1.5166666666666666	1
-Chile	Spanish	1.470177103099304	527
+Chile	Spanish	1.4717726396917143	519
 China	Arabic	2.033333333333333	1
 China	Cantonese	1.6944444444444449	54
-China	Chinese	1.6265729585006703	498
+China	Chinese	1.6270497311827965	496
 China	Dutch	1.0666666666666667	1
-China	English	1.5750841750841749	99
+China	English	1.5780068728522334	97
 China	Filipino	1.6333333333333333	1
 China	French	1.825	2
 China	Hmong	1.5083333333333333	2
 China	Japanese	1.65	10
 China	Korean	1.8222222222222222	6
-China	Mandarin	1.6631524317912216	1124
+China	Mandarin	1.662462462462462	1110
 China	Mongolian	1.65	2
 China	None	1.4666666666666666	1
 China	Russian	1.7333333333333334	3
@@ -280,8 +275,8 @@ Colombia	Creole	1.3583333333333334	2
 Colombia	English	1.4555555555555555	9
 Colombia	Italian	1.85	1
 Colombia	Portuguese	1.4	2
-Colombia	Spanish	1.5185661764705887	272
-Costa Rica	English	1.4351851851851853	9
+Colombia	Spanish	1.5171052631578952	266
+Costa Rica	English	1.44375	8
 Costa Rica	Spanish	1.4381944444444443	48
 Croatia	Arabic	1.0833333333333333	1
 Croatia	Bosnian	1.5416666666666665	2
@@ -300,14 +295,14 @@ Croatia	Slovenian	1.6749999999999998	2
 Croatia	Spanish	1.45	1
 Cuba	English	1.4904761904761905	7
 Cuba	Portuguese	1.1833333333333333	1
-Cuba	Spanish	1.5334635416666653	128
+Cuba	Spanish	1.5254666666666652	125
 Cyprus	Arabic	1.6666666666666667	1
 Cyprus	English	1.5733333333333333	15
 Cyprus	Greek	1.4824561403508774	38
 Cyprus	Turkish	1.7166666666666666	1
 Czech Republic	Basque	1.5833333333333333	1
 Czech Republic	Catalan	1.45	1
-Czech Republic	Czech	1.5714120370370361	576
+Czech Republic	Czech	1.5716404886561943	573
 Czech Republic	Dari	1.3333333333333333	1
 Czech Republic	English	1.5586538461538464	52
 Czech Republic	French	1.2541666666666669	4
@@ -324,21 +319,16 @@ Czech Republic	Serbo-Croatian	1.2166666666666666	1
 Czech Republic	Slovak	1.4666666666666663	15
 Czech Republic	Spanish	1.5291666666666666	4
 Czech Republic	Ukrainian	1.3041666666666667	4
-Czechoslovakia	Czech	1.5701388888888888	48
-Czechoslovakia	English	1.8833333333333333	1
-Czechoslovakia	French	1.5666666666666667	1
-Czechoslovakia	Italian	1.5833333333333333	1
-Czechoslovakia	Slovak	1.6378787878787877	11
 Denmark	Arabic	1.4499999999999997	7
 Denmark	Bosnian	1.1666666666666667	1
 Denmark	Burmese	1.4	1
 Denmark	Chinese	1.2166666666666666	1
-Denmark	Danish	1.505815831987076	619
+Denmark	Danish	1.5060706401766009	604
 Denmark	Dari	1.4416666666666667	2
 Denmark	Dutch	1.675	2
 Denmark	English	1.5279448621553882	133
 Denmark	Estonian	1.4333333333333333	1
-Denmark	Faroese	1.3944444444444446	3
+Denmark	Faroese	1.4500000000000002	2
 Denmark	French	1.3466666666666665	5
 Denmark	German	1.596666666666667	5
 Denmark	Greenlandic	1.3083333333333333	2
@@ -361,20 +351,19 @@ Denmark	Swedish	1.6987179487179487	13
 Denmark	Tamil	2.3333333333333335	2
 Denmark	Urdu	1.1333333333333333	1
 Dominican Republic	English	1.6833333333333333	6
-Dominican Republic	Spanish	1.5097222222222222	156
+Dominican Republic	Spanish	1.5119047619047619	154
 Ecuador	English	1.4111111111111112	3
 Ecuador	French	1.1333333333333333	1
 Ecuador	Russian	1.55	1
-Ecuador	Spanish	1.4948863636363634	88
-Egypt	Arabic	1.718551842330761	389
+Ecuador	Spanish	1.4967432950191568	87
+Egypt	Arabic	1.717280701754385	380
 Egypt	Egyptian (Ancient)	1.575	2
 Egypt	English	1.735897435897436	13
 Egypt	French	1.4	1
 Estonia	Arabic	1.2333333333333334	1
 Estonia	English	1.4133333333333333	10
-Estonia	Estonian	1.5461942257217853	127
+Estonia	Estonian	1.5484000000000004	125
 Estonia	Finnish	1.5833333333333333	1
-Estonia	German	1.0166666666666666	1
 Estonia	Latvian	1.3	1
 Estonia	Norwegian	1.35	1
 Estonia	Polish	1.55	1
@@ -386,10 +375,10 @@ Federal Republic of Yugoslavia	Serbian	1.6377777777777776	75
 Federal Republic of Yugoslavia	Serbo-Croatian	1.5722222222222222	3
 Finland	Bulgarian	1.3333333333333333	1
 Finland	Chinese	1.4083333333333332	2
-Finland	English	1.4860119047619047	56
+Finland	English	1.4888888888888887	54
 Finland	Estonian	1.445833333333333	8
 Finland	Filipino	1.25	1
-Finland	Finnish	1.5006932733745562	593
+Finland	Finnish	1.499187225090841	581
 Finland	French	1.5	3
 Finland	Georgian	1.5	1
 Finland	German	1.625	6
@@ -419,21 +408,21 @@ France	Chechen	2.4166666666666665	1
 France	Chinese	1.4208333333333332	8
 France	Corsican	1.6	1
 France	Creole	1.488888888888889	3
-France	Czech	1.6055555555555554	3
+France	Czech	1.525	2
 France	Danish	1.4166666666666667	1
 France	Dutch	1.9100000000000001	5
 France	Dyula	1.3666666666666667	1
 France	Dzongkha	1.3333333333333333	1
-France	English	1.6346715328467136	685
+France	English	1.6353482587064665	670
 France	Esperanto	1.4166666666666667	1
 France	Filipino	1.622222222222222	3
-France	French	1.5826431104356662	5264
+France	French	1.5820562435500545	5168
 France	French Sign Language	1.6166666666666667	1
 France	Fula	1.1833333333333333	1
 France	Gaelic	1.5	1
 France	Georgian	1.6333333333333335	6
-France	German	1.7755555555555556	30
-France	Greek	1.5333333333333332	10
+France	German	1.7844827586206897	29
+France	Greek	1.5407407407407405	9
 France	Haitian	1.4500000000000002	3
 France	Hebrew	1.5553333333333337	25
 France	Hindi	1.761111111111111	3
@@ -459,11 +448,11 @@ France	Macedonian	1.3666666666666667	1
 France	Malagasy	1.4388888888888889	6
 France	Malayalam	1.9833333333333334	1
 France	Malinka	1.3833333333333333	1
-France	Mandarin	1.7740740740740741	18
+France	Mandarin	1.788235294117647	17
 France	Mongolian	1.6583333333333332	2
 France	More	1.35	1
 France	Nepali	1.4166666666666667	1
-France	None	1.3175925925925926	18
+France	None	1.3166666666666669	17
 France	Norwegian	1.1833333333333333	1
 France	Occitan	1.9222222222222223	3
 France	Ojihimba	1.25	1
@@ -498,7 +487,7 @@ France	Yiddish	1.75	1
 France	Zulu	1.3166666666666667	1
 Georgia	English	1.602222222222222	15
 Georgia	French	1.4277777777777778	3
-Georgia	Georgian	1.5673469387755103	147
+Georgia	Georgian	1.5642018779342721	142
 Georgia	Russian	1.738888888888889	3
 Georgia	Spanish	1.4166666666666667	1
 Germany	Acholi	1.6333333333333333	1
@@ -520,19 +509,19 @@ Germany	Czech	1.4833333333333334	1
 Germany	Danish	1.6916666666666667	2
 Germany	Dari	1.2638888888888888	6
 Germany	Dutch	1.4759259259259256	9
-Germany	English	1.5528664606934417	971
+Germany	English	1.5529218533886566	964
 Germany	Finnish	1.6611111111111112	3
 Germany	Flemish	1.5333333333333334	1
 Germany	French	1.5396825396825398	42
 Germany	Georgian	1.5499999999999998	8
-Germany	German	1.5353312678741664	4196
+Germany	German	1.535536559916527	4153
 Germany	Greek	1.4576923076923076	13
 Germany	Hebrew	1.5187500000000003	16
 Germany	Hindi	1.3433333333333333	5
-Germany	Hungarian	1.5145833333333334	8
+Germany	Hungarian	1.4928571428571427	7
 Germany	Icelandic	1.3766666666666667	5
 Germany	Indonesian	1.2666666666666666	1
-Germany	Italian	1.5059139784946236	31
+Germany	Italian	1.4844827586206895	29
 Germany	Japanese	1.3933333333333333	5
 Germany	Ju'hoan	1.4166666666666667	1
 Germany	Kazakh	1.6388888888888886	3
@@ -558,7 +547,7 @@ Germany	Portuguese	1.4653846153846155	13
 Germany	Punjabi	1.8166666666666667	1
 Germany	Romanian	1.4522727272727272	22
 Germany	Romany	1.3333333333333333	1
-Germany	Russian	1.5223118279569887	62
+Germany	Russian	1.5224043715846989	61
 Germany	Serbian	1.3958333333333333	4
 Germany	Serbo-Croatian	1.4222222222222223	3
 Germany	Sign Languages	1.25	1
@@ -582,10 +571,10 @@ Greece	Albanian	1.5166666666666666	2
 Greece	Amharic	1.2166666666666666	1
 Greece	Arabic	1.4333333333333333	1
 Greece	English	1.5734972677595627	61
-Greece	French	1.625	4
+Greece	French	1.55	3
 Greece	Galician	1.3333333333333333	1
 Greece	German	1.4166666666666667	3
-Greece	Greek	1.4973714285714286	875
+Greece	Greek	1.4978924980665118	862
 Greece	Greek, Ancient (to 1453)	1.2666666666666666	1
 Greece	Italian	1.3916666666666666	2
 Greece	Kabuverdianu	1.5	1
@@ -597,26 +586,25 @@ Greece	Spanish	1.1	1
 Greece	Turkish	1.44	5
 Hong Kong	Arabic	1.8333333333333333	1
 Hong Kong	Burmese	2.466666666666667	1
-Hong Kong	Cantonese	1.5948087594133962	1682
+Hong Kong	Cantonese	1.5956854754440941	1595
 Hong Kong	Chinese	1.6566666666666665	25
-Hong Kong	English	1.5787878787878786	99
+Hong Kong	English	1.582592592592592	90
 Hong Kong	Filipino	1.5833333333333333	1
 Hong Kong	French	1.6611111111111112	3
 Hong Kong	German	1.0333333333333334	1
 Hong Kong	Icelandic	1.5	1
 Hong Kong	Indonesian	1.5	1
-Hong Kong	Japanese	1.7133333333333334	5
+Hong Kong	Japanese	1.7541666666666667	4
 Hong Kong	Korean	1.777777777777778	3
-Hong Kong	Mandarin	1.6888185654008445	158
+Hong Kong	Mandarin	1.6916666666666673	156
 Hong Kong	Mongolian	1.6166666666666667	2
 Hong Kong	Nepali	1.3833333333333333	1
 Hong Kong	Rajasthani	1.5	1
 Hong Kong	Spanish	2.183333333333333	1
 Hong Kong	Taiwanese	1.5	1
-Hong Kong	Vietnamese	1.45	1
 Hungary	Bulgarian	1.8	1
 Hungary	Cantonese	1.7166666666666666	1
-Hungary	English	1.6209876543209876	54
+Hungary	English	1.6213836477987422	53
 Hungary	Estonian	1.6	1
 Hungary	Finnish	1.0833333333333333	1
 Hungary	French	1.938888888888889	3
@@ -624,7 +612,7 @@ Hungary	German	1.6214285714285717	7
 Hungary	Greek	1.6	1
 Hungary	Hebrew	1.5833333333333333	1
 Hungary	Hindi	1.2	1
-Hungary	Hungarian	1.5377412623891493	639
+Hungary	Hungarian	1.5348484848484845	616
 Hungary	None	1.5	1
 Hungary	Persian	1.3	1
 Hungary	Romanian	1.575	2
@@ -632,32 +620,32 @@ Hungary	Russian	1.5233333333333334	5
 Hungary	Spanish	1.6444444444444446	3
 Hungary	Turkish	1.7833333333333334	1
 Iceland	Danish	1.45	1
-Iceland	English	1.4980952380952377	35
+Iceland	English	1.5039215686274505	34
 Iceland	French	1.55	1
-Iceland	Icelandic	1.5031531531531535	148
+Iceland	Icelandic	1.5042237442922377	146
 Iceland	Latvian	1.5	1
 Iceland	None	1.3	1
 Iceland	Polish	1.1333333333333333	1
 Iceland	Serbian	1.6	1
 Iceland	Spanish	1.4333333333333333	2
 India	Arabic	1.2166666666666666	1
-India	Assamese	1.8224358974358974	26
+India	Assamese	1.8233333333333333	25
 India	Bable	2.1666666666666665	1
-India	Bengali	2.1172424242424253	550
+India	Bengali	2.114825046040517	543
 India	Berber	2.5	1
 India	Bhojpuri	2.453472222222222	24
 India	Bodo	1.3083333333333331	2
 India	Chhattisgarhi	1.3	1
 India	Dutch	1.4666666666666666	1
-India	English	1.635650887573964	338
+India	English	1.63253493013972	334
 India	German	1.525	2
 India	Greek	1.1333333333333333	1
 India	Gujarati	2.2637096774193544	62
 India	Haryanvi	2.5833333333333335	1
 India	Himachali	1.8166666666666667	1
-India	Hindi	2.1732614406193833	2411
+India	Hindi	2.1669862235477915	2347
 India	Indian Sign Language	2.0	2
-India	Kannada	2.271954674220964	353
+India	Kannada	2.270019157088124	348
 India	Karbi	2.3	1
 India	Kashmiri	1.4874999999999998	4
 India	Khasi	1.7333333333333334	3
@@ -665,26 +653,25 @@ India	Kodava	1.8833333333333333	1
 India	Konkani	1.8666666666666667	9
 India	Magahi	1.2166666666666666	1
 India	Maithili	2.5	1
-India	Malayalam	2.1653677058353313	834
+India	Malayalam	2.1638546798029554	812
 India	Manipuri	1.675	8
-India	Marathi	2.093840579710146	368
+India	Marathi	2.0914825046040524	362
 India	Nepali	1.65	2
 India	None	1.4	2
-India	Oriya	2.4472222222222215	138
+India	Oriya	2.4512254901960775	136
 India	Persian	1.975	2
-India	Punjabi	2.2364678899082566	218
+India	Punjabi	2.2349537037037033	216
 India	Rajasthani	2.2357142857142853	7
 India	Sanskrit	1.7625	4
-India	Sign Languages	1.75	1
-India	Tamil	2.353159457167089	786
-India	Telugu	2.3892440385591067	657
+India	Tamil	2.3553049828178674	776
+India	Telugu	2.392572463768116	644
 India	Tibetan	2.0166666666666666	3
 India	Tulu	1.975	4
 India	Urdu	2.055	10
 Indonesia	Chinese	1.0833333333333333	1
 Indonesia	Dutch	1.55	1
 Indonesia	English	1.5638888888888889	24
-Indonesia	Indonesian	1.5937954309449631	642
+Indonesia	Indonesian	1.598595353862776	617
 Indonesia	Japanese	1.6888888888888889	3
 Indonesia	Malay	1.5	1
 Iran	Arabic	1.7416666666666665	10
@@ -696,15 +683,15 @@ Iran	Italian	1.5666666666666667	1
 Iran	Kurdish	1.3148148148148149	9
 Iran	None	1.2333333333333334	1
 Iran	Parsee	1.5083333333333333	2
-Iran	Persian	1.5132190265486727	904
-Iran	Turkish	1.277777777777778	3
+Iran	Persian	1.5121315192743763	882
+Iran	Turkish	1.2916666666666667	2
 Iran	Ukrainian	1.5833333333333333	1
 Iraq	Arabic	1.6117647058823528	17
 Iraq	English	1.4133333333333336	5
 Iraq	Kurdish	1.4306451612903224	31
 Iraq	Persian	1.4666666666666666	1
 Ireland	Bosnian	1.8166666666666667	1
-Ireland	English	1.488698630136987	587
+Ireland	English	1.4856937248128967	582
 Ireland	French	1.425	4
 Ireland	Hindi	1.2833333333333334	1
 Ireland	Irish Gaelic	1.4049999999999998	10
@@ -717,12 +704,12 @@ Ireland	Swedish	1.5166666666666666	1
 Israel	Amharic	1.3666666666666667	1
 Israel	Arabic	1.4378472222222225	48
 Israel	Bulgarian	1.2666666666666666	2
-Israel	English	1.5086894586894586	117
+Israel	English	1.5079022988505746	116
 Israel	French	1.5878787878787881	11
 Israel	Georgian	1.7	1
 Israel	German	2.1666666666666665	5
 Israel	Greek	1.5750000000000002	2
-Israel	Hebrew	1.4526806526806515	715
+Israel	Hebrew	1.4515772128060254	708
 Israel	Hungarian	1.5166666666666666	2
 Israel	Japanese	1.1333333333333333	1
 Israel	Polish	1.1749999999999998	2
@@ -743,8 +730,8 @@ Italy	Chinese	1.2833333333333332	2
 Italy	Dari	1.725	2
 Italy	Dutch	1.1333333333333333	1
 Italy	Egyptian (Ancient)	1.3333333333333333	1
-Italy	English	1.5539872408293467	419
-Italy	French	1.5456140350877192	38
+Italy	English	1.5493179880647918	392
+Italy	French	1.5477477477477477	37
 Italy	Georgian	1.1833333333333333	1
 Italy	German	1.4966666666666664	15
 Italy	Greek	1.8208333333333333	4
@@ -752,7 +739,7 @@ Italy	Haitian	1.7166666666666666	1
 Italy	Hebrew	1.6416666666666666	2
 Italy	Hindi	1.2466666666666668	5
 Italy	Hungarian	1.7000000000000002	2
-Italy	Italian	1.5312221231043714	3363
+Italy	Italian	1.5294860050890589	3275
 Italy	Japanese	1.4222222222222223	3
 Italy	Korean	2.1	1
 Italy	Kurdish	1.75	1
@@ -786,7 +773,7 @@ Japan	Arabic	1.7666666666666666	1
 Japan	Cantonese	1.6805555555555556	6
 Japan	Chinese	2.266666666666667	3
 Japan	Dutch	1.5	1
-Japan	English	1.6075581395348841	172
+Japan	English	1.6051896207584833	167
 Japan	Filipino	2.0611111111111113	3
 Japan	French	1.7083333333333333	4
 Japan	German	1.8333333333333333	2
@@ -794,7 +781,7 @@ Japan	Hebrew	1.6	1
 Japan	Hindi	1.95	1
 Japan	Indonesian	1.5833333333333333	1
 Japan	Italian	1.611111111111111	3
-Japan	Japanese	1.6376087744742533	5516
+Japan	Japanese	1.6421343458665165	5399
 Japan	Korean	1.7092592592592593	9
 Japan	Malay	1.4	1
 Japan	Mandarin	1.775	10
@@ -804,7 +791,7 @@ Japan	Persian	1.5416666666666665	2
 Japan	Polish	1.7833333333333334	1
 Japan	Portuguese	1.1	1
 Japan	Romany	1.75	1
-Japan	Russian	1.5966666666666667	5
+Japan	Russian	1.4666666666666666	4
 Japan	Ryukyuan	1.4166666666666667	1
 Japan	Spanish	1.69375	8
 Japan	Tagalog	1.5	1
@@ -819,7 +806,7 @@ Latvia	English	1.4892857142857143	14
 Latvia	Estonian	1.0666666666666667	1
 Latvia	German	1.4833333333333334	2
 Latvia	Japanese	1.7	1
-Latvia	Latvian	1.5992063492063484	84
+Latvia	Latvian	1.5831223628691982	79
 Latvia	None	1.3333333333333333	1
 Latvia	Norwegian	1.6333333333333333	1
 Latvia	Russian	1.4833333333333334	9
@@ -847,11 +834,11 @@ Luxembourg	Tibetan	1.1833333333333333	1
 Luxembourg	Turkish	1.5	1
 Malaysia	Cantonese	1.5277777777777777	15
 Malaysia	Chinese	1.5891666666666666	20
-Malaysia	English	1.5561594202898552	46
+Malaysia	English	1.557777777777778	45
 Malaysia	Filipino	1.2916666666666665	2
 Malaysia	Hindi	1.5333333333333334	1
 Malaysia	Hokkien	1.6333333333333335	3
-Malaysia	Malay	1.607561235356762	313
+Malaysia	Malay	1.6065803667745413	309
 Malaysia	Malayalam	1.2666666666666666	1
 Malaysia	Mandarin	1.6408045977011492	29
 Malaysia	Taiwanese	1.9166666666666667	1
@@ -859,7 +846,7 @@ Malaysia	Tamil	1.711904761904762	14
 Malaysia	Thai	1.3833333333333333	2
 Mexico	American Sign Language	1.3666666666666667	1
 Mexico	Arabic	1.6166666666666667	1
-Mexico	English	1.5058997050147498	113
+Mexico	English	1.506606606606607	111
 Mexico	French	1.75	1
 Mexico	German	1.6666666666666665	2
 Mexico	Hebrew	1.6333333333333333	1
@@ -871,10 +858,10 @@ Mexico	Maya	1.4333333333333333	1
 Mexico	Nahuatl	1.472222222222222	3
 Mexico	Portuguese	1.5666666666666667	1
 Mexico	Purépecha	1.95	1
-Mexico	Spanish	1.506968145620023	2344
+Mexico	Spanish	1.5098235020901059	2153
 Mexico	Tarahumara	1.45	1
 Mexico	Thai	2.566666666666667	1
-Morocco	Arabic	1.6196236559139787	124
+Morocco	Arabic	1.618306010928962	122
 Morocco	Berber	1.5291666666666666	4
 Morocco	Berber languages	1.7333333333333334	1
 Morocco	English	1.7444444444444445	3
@@ -882,7 +869,7 @@ Morocco	French	1.5599999999999998	20
 Morocco	Portuguese	1.8	1
 Morocco	Spanish	1.25	1
 Morocco	Wolof	1.1	1
-Nepal	English	1.5083333333333335	6
+Nepal	English	1.4766666666666666	5
 Nepal	Finnish	1.1666666666666667	1
 Nepal	Limbu	1.8	1
 Nepal	Nepali	1.9702898550724637	92
@@ -895,8 +882,8 @@ Netherlands	Azeri	1.3333333333333333	1
 Netherlands	Chechen	1.5833333333333333	1
 Netherlands	Chinese	1.225	2
 Netherlands	Creole	1.2833333333333334	1
-Netherlands	Dutch	1.5027455529775735	863
-Netherlands	English	1.5253652058432965	251
+Netherlands	Dutch	1.5026984126984138	841
+Netherlands	English	1.522580645161293	248
 Netherlands	Filipino	1.75	1
 Netherlands	Finnish	1.4916666666666667	2
 Netherlands	Flemish	1.5944444444444443	3
@@ -925,7 +912,7 @@ Netherlands	Portuguese	1.375	10
 Netherlands	Romanian	1.6666666666666667	1
 Netherlands	Russian	1.3428571428571432	21
 Netherlands	Somali	1.3833333333333333	1
-Netherlands	Spanish	1.3575757575757577	22
+Netherlands	Spanish	1.3492063492063493	21
 Netherlands	Swahili	1.25	1
 Netherlands	Thai	1.6166666666666667	1
 Netherlands	Turkish	1.1666666666666667	1
@@ -933,10 +920,10 @@ Netherlands	Urdu	1.25	1
 Netherlands	Uzbek	1.4666666666666666	1
 Netherlands	Vietnamese	1.8	1
 Netherlands	Western Frisian	1.5833333333333335	2
-New Zealand	English	1.5116867469879516	415
+New Zealand	English	1.5081914030819141	411
 New Zealand	Hindi	1.2166666666666666	1
 New Zealand	Korean	1.5583333333333333	2
-New Zealand	Maori	1.5625	4
+New Zealand	Maori	1.6111111111111114	3
 New Zealand	Persian	1.0333333333333334	1
 New Zealand	Samoan	1.8333333333333333	1
 New Zealand	Spanish	1.45	1
@@ -949,7 +936,7 @@ Norway	Albanian	1.7666666666666666	1
 Norway	Arabic	1.3250000000000002	4
 Norway	Belarusian	1.2166666666666666	1
 Norway	Danish	1.9166666666666667	1
-Norway	English	1.4728070175438601	57
+Norway	English	1.4735849056603776	53
 Norway	Estonian	1.65	1
 Norway	Finnish	1.5416666666666667	2
 Norway	German	1.4055555555555557	3
@@ -960,14 +947,14 @@ Norway	Japanese	1.4833333333333334	1
 Norway	Kirundi	1.4	1
 Norway	Korean	1.3833333333333333	1
 Norway	Kurdish	1.4291666666666667	4
-Norway	Norwegian	1.4778008298755205	482
+Norway	Norwegian	1.4749115357395628	471
 Norway	Pashtu	1.6333333333333333	1
 Norway	Persian	1.2666666666666666	1
 Norway	Punjabi	1.7833333333333334	1
 Norway	Russian	1.625	2
 Norway	Saami	1.5333333333333334	1
 Norway	Spanish	1.375	2
-Norway	Swedish	1.55	8
+Norway	Swedish	1.5285714285714285	7
 Norway	Tamil	1.3333333333333333	1
 Norway	Thai	1.5	1
 Norway	Vietnamese	2.283333333333333	1
@@ -978,18 +965,18 @@ Pakistan	Arabic	1.6166666666666667	1
 Pakistan	English	1.5799999999999998	10
 Pakistan	Hindi	1.875	2
 Pakistan	Pashtu	2.07	5
-Pakistan	Punjabi	2.3	6
+Pakistan	Punjabi	2.0708333333333333	4
 Pakistan	Tibetan	2.7333333333333334	1
-Pakistan	Urdu	1.9925925925925927	72
-Peru	English	1.6500000000000001	12
+Pakistan	Urdu	1.992488262910798	71
+Peru	English	1.7083333333333335	10
 Peru	None	1.0333333333333334	1
 Peru	Quechua	1.5333333333333332	2
-Peru	Spanish	1.543	150
+Peru	Spanish	1.5398210290827739	149
 Philippines	Bicolano	1.875	2
 Philippines	Bikol	1.4	1
 Philippines	Chinese	2.1666666666666665	1
-Philippines	English	1.5798122065727698	71
-Philippines	Filipino	1.692346786248133	1115
+Philippines	English	1.5852657004830917	69
+Philippines	Filipino	1.6895909090909105	1100
 Philippines	French	2.2333333333333334	1
 Philippines	German	1.2916666666666665	2
 Philippines	Hebrew	1.55	1
@@ -998,11 +985,10 @@ Philippines	Mandarin	1.6	2
 Philippines	None	1.05	1
 Philippines	Sign Languages	1.8333333333333333	1
 Philippines	Spanish	2.375	2
-Philippines	Tagalog	1.7015917602996244	178
+Philippines	Tagalog	1.7036190476190467	175
 Philippines	Visayan	1.5833333333333333	3
 Poland	Belarusian	1.5666666666666667	2
-Poland	Danish	1.4833333333333334	1
-Poland	English	1.5044117647058826	68
+Poland	English	1.496923076923077	65
 Poland	Finnish	1.3833333333333333	1
 Poland	French	1.5696969696969696	11
 Poland	German	1.5814814814814815	9
@@ -1010,7 +996,7 @@ Poland	Hungarian	1.55	1
 Poland	Italian	1.2666666666666666	2
 Poland	Japanese	1.6666666666666667	1
 Poland	None	1.6666666666666667	1
-Poland	Polish	1.5617692605497508	861
+Poland	Polish	1.5590219560878262	835
 Poland	Portuguese	1.25	1
 Poland	Russian	1.5766666666666667	10
 Poland	Thai	1.15	1
@@ -1030,29 +1016,29 @@ Portugal	Lithuanian	1.1166666666666667	1
 Portugal	Mandarin	1.75	1
 Portugal	Mirandese	1.4166666666666667	1
 Portugal	None	1.75	1
-Portugal	Portuguese	1.583302864107253	547
+Portugal	Portuguese	1.581849103277676	539
 Portugal	Spanish	1.6354166666666667	8
 Portugal	Swedish	1.2666666666666666	1
 Portugal	Turkish	1.325	2
 Puerto Rico	English	1.523148148148148	18
 Puerto Rico	Portuguese	1.4333333333333333	1
-Puerto Rico	Spanish	1.5531339031339026	117
+Puerto Rico	Spanish	1.5547413793103444	116
 Romania	Aromanian	1.5	2
-Romania	English	1.5406862745098042	34
+Romania	English	1.5409090909090915	33
 Romania	French	1.5	6
 Romania	German	1.5	1
 Romania	Hungarian	1.3	5
 Romania	Italian	1.55	1
 Romania	None	1.55	1
 Romania	Portuguese	1.2	1
-Romania	Romanian	1.598809523809525	308
+Romania	Romanian	1.6006644518272435	301
 Romania	Romany	1.55	1
 Romania	Russian	1.75	1
 Russia	Azeri	1.5	1
 Russia	Basque	1.3333333333333333	1
 Russia	Bulgarian	1.5	1
 Russia	Chechen	1.7083333333333335	4
-Russia	English	1.478205128205128	65
+Russia	English	1.4791666666666667	64
 Russia	French	2.1888888888888887	3
 Russia	Georgian	1.6722222222222218	3
 Russia	German	1.7541666666666669	4
@@ -1062,7 +1048,7 @@ Russia	Mongolian	2.1	1
 Russia	None	1.5166666666666668	3
 Russia	Portuguese	1.85	1
 Russia	Romany	1.0166666666666666	1
-Russia	Russian	1.5781343943412887	1885
+Russia	Russian	1.5782589443854034	1882
 Russia	Russian Sign Language	1.7833333333333334	1
 Russia	Saami	1.65	1
 Russia	Serbian	1.8833333333333333	1
@@ -1073,12 +1059,12 @@ Russia	Uzbek	1.2833333333333334	1
 Russia	Yakut	1.33125	8
 Serbia	Bulgarian	1.4333333333333333	1
 Serbia	Croatian	1.9	1
-Serbia	English	1.4717948717948721	13
+Serbia	English	1.4694444444444443	12
 Serbia	French	1.2000000000000002	2
 Serbia	German	1.45	1
 Serbia	Hungarian	1.8833333333333333	1
 Serbia	Romanian	1.5	3
-Serbia	Serbian	1.5958874458874457	231
+Serbia	Serbian	1.5959420289855073	230
 Serbia	Serbo-Croatian	1.5666666666666667	7
 Serbia	Slovak	1.0833333333333333	1
 Singapore	Arabic	1.1333333333333333	1
@@ -1113,33 +1099,33 @@ Slovenia	Serbo-Croatian	1.4166666666666665	2
 Slovenia	Slovenian	1.4926406926406928	154
 Slovenia	Swedish	1.2833333333333334	1
 Slovenia	Ukrainian	1.1166666666666667	1
-South Africa	Afrikaans	1.6647660818713443	114
+South Africa	Afrikaans	1.6671171171171162	111
 South Africa	American Sign Language	1.3833333333333333	1
 South Africa	Amharic	1.7833333333333334	1
 South Africa	Arabic	1.8333333333333333	1
 South Africa	Armenian	1.65	1
 South Africa	Bambara	1.2	1
-South Africa	English	1.5586795937211444	361
+South Africa	English	1.557820136852394	341
 South Africa	French	1.2833333333333332	2
 South Africa	German	1.5666666666666667	2
 South Africa	More	1.4166666666666667	1
 South Africa	Portuguese	1.0833333333333333	1
 South Africa	Punjabi	2.5166666666666666	1
 South Africa	Shona	1.4	1
-South Africa	Sotho	1.288888888888889	3
+South Africa	Sotho	1.3583333333333334	2
 South Africa	Xhosa	1.5954545454545455	11
 South Africa	Zulu	1.507246376811594	23
 South Korea	Chinese	1.5458333333333334	4
 South Korea	Dari	1.5	1
-South Korea	English	1.6240740740740744	54
+South Korea	English	1.6216981132075474	53
 South Korea	Filipino	1.3250000000000002	2
 South Korea	French	1.7	1
 South Korea	German	1.3666666666666667	1
 South Korea	Hindi	1.5416666666666665	2
 South Korea	Indonesian	1.7833333333333334	1
-South Korea	Japanese	1.85	25
+South Korea	Japanese	1.8520833333333335	24
 South Korea	Karen	1.5944444444444443	3
-South Korea	Korean	1.7243319590777242	2183
+South Korea	Korean	1.7261365423942128	2119
 South Korea	Mandarin	1.707142857142857	7
 South Korea	Mongolian	2.05	1
 South Korea	None	1.45	3
@@ -1150,19 +1136,15 @@ South Korea	Thai	1.7833333333333332	2
 South Korea	Tibetan	1.1833333333333333	1
 South Korea	Uzbek	1.8	1
 South Korea	Vietnamese	1.3333333333333335	2
-Soviet Union	Armenian	1.8416666666666666	8
-Soviet Union	Azerbaijani	1.475	2
+Soviet Union	Armenian	1.8333333333333333	5
 Soviet Union	Azeri	1.5583333333333333	2
-Soviet Union	English	1.675	2
-Soviet Union	Estonian	1.5	2
-Soviet Union	Georgian	1.5666666666666667	5
-Soviet Union	Kazakh	1.2	1
+Soviet Union	Estonian	1.2	1
+Soviet Union	Georgian	1.475	2
 Soviet Union	Latvian	1.15	1
-Soviet Union	Lithuanian	1.4738095238095237	7
+Soviet Union	Lithuanian	1.4666666666666666	2
 Soviet Union	Mandarin	2.933333333333333	1
-Soviet Union	Russian	1.6155412647374046	311
-Soviet Union	Spanish	2.316666666666667	1
-Soviet Union	Ukrainian	1.59	5
+Soviet Union	Russian	1.610190476190476	175
+Soviet Union	Ukrainian	1.4666666666666668	3
 Spain	Amharic	1.1333333333333333	1
 Spain	Arabic	1.343939393939394	11
 Spain	Basque	1.4495833333333337	40
@@ -1170,13 +1152,13 @@ Spain	Bengali	1.1666666666666667	1
 Spain	Berber	1.35	2
 Spain	Bosnian	1.65	1
 Spain	Burmese	1.3	1
-Spain	Catalan	1.4800595238095249	224
+Spain	Catalan	1.4756818181818194	220
 Spain	Chinese	1.3111111111111111	3
 Spain	Creole	1.3666666666666667	2
 Spain	Dari	1.2333333333333334	1
-Spain	English	1.5557738095238094	280
-Spain	French	1.525609756097561	41
-Spain	Galician	1.5023809523809522	35
+Spain	English	1.5555961070559612	274
+Spain	French	1.5241666666666667	40
+Spain	Galician	1.4955882352941174	34
 Spain	German	1.3972222222222221	6
 Spain	Greek	1.6416666666666666	2
 Spain	Hausa	1.1666666666666667	1
@@ -1191,7 +1173,7 @@ Spain	Persian	1.3	1
 Spain	Portuguese	1.5115384615384615	13
 Spain	Russian	1.4833333333333332	4
 Spain	Somali	1.2666666666666666	1
-Spain	Spanish	1.5448767006802733	2352
+Spain	Spanish	1.5448982516480374	2326
 Spain	Swahili	1.5833333333333333	1
 Spain	Tagalog	1.2333333333333334	1
 Spain	Tamashek	1.1	1
@@ -1201,14 +1183,14 @@ Spain	Wolof	1.1833333333333333	1
 Sri Lanka	English	1.6375000000000002	4
 Sri Lanka	French	1.3666666666666667	1
 Sri Lanka	Shanghainese	1.65	2
-Sri Lanka	Sinhala	1.7774999999999994	80
+Sri Lanka	Sinhala	1.7715189873417716	79
 Sri Lanka	Tamil	1.61	5
 Sri Lanka	Thai	1.7666666666666666	1
 Sweden	Arabic	1.7583333333333333	2
 Sweden	Bulgarian	1.1	1
 Sweden	Danish	1.658333333333333	8
 Sweden	Dari	1.3277777777777777	3
-Sweden	English	1.5225775193798445	172
+Sweden	English	1.5140196078431372	170
 Sweden	Faroese	1.5833333333333333	1
 Sweden	Finnish	1.8333333333333333	1
 Sweden	French	1.3791666666666667	4
@@ -1232,28 +1214,28 @@ Sweden	Saami	1.3916666666666666	2
 Sweden	Scanian	1.5	1
 Sweden	Serbo-Croatian	1.75	1
 Sweden	Spanish	1.4590909090909092	11
-Sweden	Swedish	1.5640401699497857	863
+Sweden	Swedish	1.5620315581854025	845
 Sweden	Turkish	1.7	1
 Sweden	Uzbek	1.2833333333333334	1
-Switzerland	Arabic	1.4547619047619047	7
+Switzerland	Arabic	1.4749999999999999	6
 Switzerland	Chechen	1.4333333333333333	1
 Switzerland	Chinese	1.3333333333333333	2
 Switzerland	Creoles and pidgins	1.65	1
 Switzerland	Czech	1.0333333333333334	1
 Switzerland	Danish	1.25	1
 Switzerland	Dutch	1.4166666666666667	1
-Switzerland	English	1.5049707602339186	171
+Switzerland	English	1.5067460317460322	168
 Switzerland	Finnish	1.55	1
 Switzerland	French	1.4717536813922347	249
-Switzerland	German	1.4705533596837954	253
+Switzerland	German	1.4719047619047627	245
 Switzerland	Gujarati	1.4833333333333334	2
 Switzerland	Hebrew	1.7583333333333333	2
 Switzerland	Hindi	2.3083333333333336	2
 Switzerland	Inuktitut	1.1666666666666667	1
-Switzerland	Italian	1.4699999999999998	50
+Switzerland	Italian	1.4761904761904758	49
 Switzerland	Japanese	1.0166666666666666	1
 Switzerland	Korean	1.475	2
-Switzerland	More	1.4166666666666667	2
+Switzerland	More	1.4833333333333334	1
 Switzerland	None	1.375	2
 Switzerland	North American Indian	1.6	1
 Switzerland	Persian	1.5	2
@@ -1261,22 +1243,22 @@ Switzerland	Polish	1.3555555555555554	3
 Switzerland	Portuguese	1.4305555555555556	6
 Switzerland	Romansch	1.5666666666666667	1
 Switzerland	Russian	1.46	10
-Switzerland	Spanish	1.37962962962963	27
-Switzerland	Swiss German	1.492553191489362	235
+Switzerland	Spanish	1.3750000000000002	26
+Switzerland	Swiss German	1.491809116809117	234
 Switzerland	Tswana	1.5333333333333334	1
-Switzerland	Turkish	1.6452380952380952	7
+Switzerland	Turkish	1.6166666666666665	6
 Switzerland	Urdu	1.55	1
 Switzerland	Vietnamese	1.55	1
 Taiwan	Aboriginal	1.8624999999999998	4
 Taiwan	Burmese	1.5944444444444443	3
 Taiwan	Cantonese	1.6777777777777778	6
-Taiwan	Chinese	1.6174603174603177	63
-Taiwan	English	1.5031746031746032	21
+Taiwan	Chinese	1.6196236559139787	62
+Taiwan	English	1.5033333333333334	20
 Taiwan	French	1.8	1
 Taiwan	Hakka	1.4791666666666667	4
 Taiwan	Hokkien	1.7666666666666666	2
 Taiwan	Japanese	1.9687499999999998	8
-Taiwan	Mandarin	1.6541130185979984	466
+Taiwan	Mandarin	1.661211437170807	443
 Taiwan	Min Nan	1.6294117647058823	17
 Taiwan	Sign Languages	1.8166666666666667	1
 Taiwan	Tagalog	1.625	2
@@ -1290,7 +1272,7 @@ Thailand	Korean	1.5	1
 Thailand	Lao	1.55	1
 Thailand	Mandarin	1.8	1
 Thailand	Taiwanese	1.5416666666666665	2
-Thailand	Thai	1.6936609686609692	468
+Thailand	Thai	1.6943848354792563	466
 Thailand	Vietnamese	1.5	1
 Turkey	Arabic	1.7208333333333334	4
 Turkey	Armenian	1.1333333333333333	1
@@ -1308,7 +1290,7 @@ Turkey	Sign Languages	1.1833333333333333	1
 Turkey	Spanish	1.4166666666666667	1
 Turkey	Tatar	1.4666666666666666	1
 Turkey	Tibetan	1.1	1
-Turkey	Turkish	1.6368170656844694	1086
+Turkey	Turkish	1.642909496494583	1046
 UK	Aboriginal	2.1333333333333333	1
 UK	Albanian	1.6416666666666666	2
 UK	Amharic	1.3	1
@@ -1324,9 +1306,9 @@ UK	Cornish	1.4666666666666666	1
 UK	Dari	1.4000000000000001	3
 UK	Dioula	1.0333333333333334	1
 UK	Dutch	1.7999999999999998	2
-UK	English	1.5630044486812895	6295
+UK	English	1.5611200774693388	6197
 UK	Faroese	1.4	1
-UK	French	1.6588888888888889	30
+UK	French	1.6431034482758622	29
 UK	German	1.6562499999999998	8
 UK	Greek	1.5250000000000001	4
 UK	Gujarati	1.1166666666666667	1
@@ -1387,7 +1369,7 @@ USA	Akan	2.3833333333333333	1
 USA	Albanian	1.45	3
 USA	American Sign Language	1.621794871794872	13
 USA	Amharic	1.6366666666666667	5
-USA	Arabic	1.3984496124031012	43
+USA	Arabic	1.3964285714285718	42
 USA	Aramaic	2.1166666666666667	1
 USA	Armenian	1.4866666666666668	5
 USA	Assyrian Neo-Aramaic	1.5	1
@@ -1407,7 +1389,7 @@ USA	Czech	1.65	2
 USA	Dari	2.1333333333333333	1
 USA	Dutch	1.6925555555555554	5
 USA	East-Greenlandic	1.5666666666666667	1
-USA	English	1.5316450466527904	46893
+USA	English	1.5305421063184386	46006
 USA	Esperanto	1.575	2
 USA	Faroese	1.4833333333333334	1
 USA	Filipino	1.67	5
@@ -1423,15 +1405,14 @@ USA	Gujarati	1.0166666666666666	1
 USA	Haitian	1.35	1
 USA	Hawaiian	1.4166666666666665	2
 USA	Hebrew	1.3769230769230771	13
-USA	Hindi	1.8313953488372092	43
+USA	Hindi	1.8222222222222217	42
 USA	Hmong	1.7222222222222223	3
 USA	Hokkien	2.1333333333333333	1
 USA	Hungarian	1.45	2
 USA	Ibo	2.0	1
-USA	Icelandic	1.6166666666666667	1
 USA	Indonesian	1.36	5
 USA	Italian	1.7427350427350423	39
-USA	Japanese	1.5544444444444445	45
+USA	Japanese	1.5341085271317834	43
 USA	Kazakh	1.4333333333333333	1
 USA	Khmer	1.4933333333333334	5
 USA	Kinyarwanda	1.3416666666666668	4
@@ -1450,19 +1431,19 @@ USA	Masai	1.4166666666666667	1
 USA	Maya	1.8055555555555556	3
 USA	More	2.25	1
 USA	Nepali	1.4	2
-USA	None	1.527450980392157	34
+USA	None	1.5373737373737377	33
 USA	Norse, Old	3.6	1
 USA	North American Indian	2.2	1
 USA	Norwegian	1.375	2
 USA	Pashtu	1.2944444444444445	3
-USA	Persian	1.6202380952380953	15
+USA	Persian	1.6294871794871797	14
 USA	Polish	1.388888888888889	3
 USA	Portuguese	1.414814814814815	27
 USA	Punjabi	1.5944444444444443	3
 USA	Quechua	1.7	1
 USA	Romanian	1.4722222222222223	3
 USA	Rotuman	1.45	1
-USA	Russian	1.5585585585585582	37
+USA	Russian	1.5181372549019603	34
 USA	Serbian	1.3499999999999999	3
 USA	Serbo-Croatian	1.55	1
 USA	Sinhala	1.2999999999999998	2
@@ -1470,7 +1451,7 @@ USA	Slovak	1.0333333333333334	1
 USA	Slovenian	1.1833333333333333	1
 USA	Somali	1.8166666666666667	1
 USA	Sotho	1.6833333333333333	1
-USA	Spanish	1.4883561643835632	293
+USA	Spanish	1.4882758620689671	291
 USA	Swahili	1.6833333333333333	4
 USA	Swedish	1.6222222222222225	3
 USA	Tagalog	2.9833333333333334	2
@@ -1492,21 +1473,21 @@ USA	Zulu	1.3	2
 Ukraine	Czech	1.5	1
 Ukraine	English	1.6238095238095238	14
 Ukraine	Russian	1.564166666666666	100
-Ukraine	Ukrainian	1.6360082304526746	81
+Ukraine	Ukrainian	1.6348290598290598	78
 United Arab Emirates	Arabic	1.51025641025641	39
-United Arab Emirates	English	1.5026315789473685	19
+United Arab Emirates	English	1.5027777777777778	18
 United Arab Emirates	French	1.2666666666666666	1
 United Arab Emirates	Hindi	1.7083333333333333	2
 United Arab Emirates	Urdu	1.3833333333333333	1
 Uruguay	English	1.4452380952380952	7
 Uruguay	French	1.3333333333333333	1
 Uruguay	Italian	1.4166666666666667	1
-Uruguay	Spanish	1.455115511551155	101
+Uruguay	Spanish	1.451333333333333	100
 Venezuela	English	1.4166666666666667	5
 Venezuela	Japanese	1.5	1
 Venezuela	Portuguese	1.9	1
-Venezuela	Spanish	1.611875	160
+Venezuela	Spanish	1.6105870020964357	159
 Venezuela	Spanish Sign Language	1.75	1
 Vietnam	Central Khmer	1.3333333333333333	1
 Vietnam	English	1.4814814814814814	9
-Vietnam	Vietnamese	1.6438725490196078	136
+Vietnam	Vietnamese	1.6449382716049383	135
