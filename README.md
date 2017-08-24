@@ -1,5 +1,7 @@
+# imdb_movie_runtime
+
 ## What is this repo?
-Task here is to plot determine mean movie length by country and plot it on a map.
+Determine average movie runtime by country from IMDB data and plot it on a map.
 
 ### Steps
 1. Obtain [IMDB data](ftp://ftp.fu-berlin.de/pub/misc/movies/database/temporaryaccess/) in list format (Files obtained: countries, language, movies and running-times)
@@ -15,7 +17,7 @@ to convert IMDB list format to JSON format. Note: This modified imdb2json.py is 
 
 Interactive version of this chart is available at [plot.ly](https://plot.ly/~mana_plotly/24/)
 
-Scatter plot version of this chart:
+**Scatter plot version of this chart:**
 ![Average movie runtime by country - Scatter plot](./results/scatterplot_imdb_MovieLengthByCountry.png)
 
 Interactive version of this chart is available at [plot.ly](https://plot.ly/~mana_plotly/22/)
