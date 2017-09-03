@@ -21,7 +21,7 @@ to convert IMDB list format to JSON format. Note: This modified imdb2json.py is 
 Interactive version of this chart is available at [plot.ly](https://plot.ly/~mana_plotly/24/)
 
 **Average Indian movie length by language**
-![Average Indian movie runtime by language](./results/India_movie_length.png){:height="50%" width="50%"}
+![Average Indian movie runtime by language](./results/India_movie_length.png) <!-- .element height="50%" width="50%" -->
 
 **Scatter plot version of the world movies chart:**
 ![Average movie runtime by country - Scatter plot](./results/scatterplot_imdb_MovieLengthByCountry.png)
