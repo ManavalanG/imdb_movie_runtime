@@ -1,6 +1,6 @@
 # imdb_movie_runtime
 
-Task:
+### Task:
 * Determine average movie runtime by country from IMDB data and plot it on a map.
 * Do the same with for Indian movies by language.
 
@@ -21,7 +21,7 @@ to convert IMDB list format to JSON format. Note: This modified imdb2json.py is 
 Interactive version of this chart is available at [plot.ly](https://plot.ly/~mana_plotly/24/)
 
 **Average Indian movie length by language**
-![Average Indian movie runtime by language](./results/India_movie_length.png)
+![Average Indian movie runtime by language](./results/India_movie_length.png){:height="70%"}
 
 **Scatter plot version of the world movies chart:**
 ![Average movie runtime by country - Scatter plot](./results/scatterplot_imdb_MovieLengthByCountry.png)
